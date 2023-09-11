@@ -41,7 +41,6 @@ network = BayesianNetwork([
 ```
 
 
-
 ## Output :
 
 ## Result :  
