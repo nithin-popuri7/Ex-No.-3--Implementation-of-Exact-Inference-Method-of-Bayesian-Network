@@ -27,6 +27,7 @@ Print the results.<br>
 Name:P.Siva Naga Nithin
 Reg.No:212221240037
 ```
+```
 from pgmpy.models import BayesianNetwork
 from pgmpy.factors.discrete import TabularCPD
 from pgmpy.infrence import VariableElimination
@@ -39,7 +40,6 @@ network = BayesianNetwork([
 ])
 ```
 
-```
 
 
 ## Output :
